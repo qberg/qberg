@@ -1,8 +1,9 @@
 ### Hi there 👋
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qberg&hide=jupyter%20notebook,html,tex&theme=highcontrast)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
