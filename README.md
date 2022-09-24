@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qberg&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qberg&hide=jupyternotebook&theme=tokyonight)
 
 
 
