@@ -16,8 +16,8 @@ class Philomath:
     def greeting_you(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 	
-def procrasinate_by(self):
-	print("Editing my dotfiles for the millionth time.")
+	def procrasinate_by(self):
+		print("Editing my dotfiles for the millionth time.")
 	
 
 me = Philomath()
