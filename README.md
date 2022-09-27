@@ -12,6 +12,7 @@ class Philomath:
 	self.activation = AnythingMath()
 	self.interests = [
 			"Algorithms",
+			"Computational Geometry",
 			"Reinforcement Learning",
 			"Natural Language Processing"
 			]
