@@ -14,7 +14,8 @@ class Philomath:
 			"Algorithms",
 			"Computational Geometry",
 			"Reinforcement Learning",
-			"Natural Language Processing"
+			"Natural Language Processing",
+			"Web Development"
 			]
 
     def greeting_you(self):
@@ -27,8 +28,6 @@ class Philomath:
 me = Philomath()
 me.greeting_you()
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qberg&hide=jupyter%20notebook,html,tex&theme=highcontrast)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=qberg&theme=highcontrast)](https://git.io/streak-stats)
 
 
