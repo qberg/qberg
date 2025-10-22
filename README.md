@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-mail@me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bs17b025@smail.iitm.ac.in.com)](mailto:bs17b025@smail.iitm.ac.in)
+[![Gmail Badge](https://img.shields.io/badge/-mail@me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bs17b025@smail.iitm.ac.in.com)](mailto:reneeth@minsky.in)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -28,8 +28,6 @@ class Philomath:
 me = Philomath()
 me.greeting_you()
 ```
-[![GitHub Streak](https://streak-stats.demolab.com/?user=qberg&theme=highcontrast)](https://git.io/streak-stats)
-
 
 
 
